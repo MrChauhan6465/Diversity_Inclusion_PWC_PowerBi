@@ -20,8 +20,7 @@ Repository Contents
 /Data: Supporting resources, data sets, and research used in the project.
 
 ## Screenshots
-![image](https://github.com/MrChauhan6465/Diversity_Inclusion_PWC_PowerBi/assets/89354259/1d9c2cd5-a378-46d2-a40a-fc5be3d002b1)
-![image](https://github.com/MrChauhan6465/Diversity_Inclusion_PWC_PowerBi/assets/89354259/bb4044b2-7652-4eeb-a858-6b5fa71a5ce0)
+[new.pdf](https://github.com/MrChauhan6465/Diversity_Inclusion_PWC_PowerBi/files/12346778/new.pdf)
 
 ## Acknowledgments
 I'm grateful to PwC Switzerland for the virtual internship opportunity and the chance to contribute to meaningful change through this project.
