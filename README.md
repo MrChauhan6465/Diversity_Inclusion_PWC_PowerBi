@@ -19,6 +19,7 @@ Repository Contents
 /Images: Screenshots of the project dashboard and visualizations in action.
 /Data: Supporting resources, data sets, and research used in the project.
 
+## Screenshots
 
 ## Acknowledgments
 I'm grateful to PwC Switzerland for the virtual internship opportunity and the chance to contribute to meaningful change through this project.
